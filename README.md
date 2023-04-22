@@ -1,14 +1,8 @@
 0x11. C - printf
 
-CGroup project
+Group Project
+This project is done by Adonijah Kplimo and Shadrack Yego.
 
-    By: Julien Barbier, co-founder & CEO
-    Weight: 5
-    Project to be done in teams of 2 people (your team: Shadrack yego, Adonijah Kiplimo)
-    Project will start Apr 20, 2023 6:00 AM, must end by Apr 26, 2023 6:00 AM
-    Checker was released at Apr 21, 2023 6:00 PM
-    An auto review will be launched at the deadline
-    Requirements
 General
 
     Allowed editors: vi, vim, emacs
